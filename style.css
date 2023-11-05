@@ -128,7 +128,7 @@ header .shopping span{
 }
 .home{
     min-height: 100vh;
-    background: url(/image/backgroud.jpg);
+    background: url(/images/backgroud.jpg);
     background-size: cover !important;
     background-position: center !important;
     position: relative;
