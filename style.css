@@ -166,7 +166,10 @@ header .shopping span{
   }
   
   /* end */
-  
+  ul 
+{
+    list-style-type: none;
+}
   /* banner */
   
   .banner-container{
